@@ -23,5 +23,9 @@
   "homepage": "https://github.com/wlsf82/cypress-basico-v2#readme",
   "dependencies": {
     "cypress": "^13.7.2"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/wlsf82/cypress-basico-v2/issues"
+  },
+  "devDependencies": {}
 }
